@@ -1,2 +1,2 @@
-# test_igems
-This is for testing purposes only
+These scripts were used in the publication by Petkus, A.J., Beam, C.R., Johnson, W., Kaprio, J., Korhonen, T., McGue, M., Neiderhiser, J.M., Pedersen, N.L., Reynolds, C.A., Gatz, M. & the IGEMS Consortium (2017). Gene–environment interplay in depressive symptoms: moderation by age, sex, and physical illness. Psychological Medicine, 47(10), 1836-1847.
+https://cesr.usc.edu/documents/igems/Gene-Environment_depressive_symptoms.pdf
